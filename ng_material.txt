@@ -1,0 +1,4 @@
+
+https://angular-2-training-book.rangle.io/handout/features/getting_started_with_typescript.html 
+
+https://github.com/angular/angular-cli 
